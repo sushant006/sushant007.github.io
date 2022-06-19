@@ -13,7 +13,7 @@
     border-top: 2px dashed gray;
 }
 #secondpart{
-    padding: 0%;
+    padding: 0px;
     display:flex;
     flex-direction: row;
     gap:30px;
