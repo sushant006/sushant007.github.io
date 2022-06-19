@@ -68,18 +68,14 @@ body{
     height: 35vh;
     width: 35vh;
 }
-#leftpartnav{
-    display:flex;
-}
-#rightpartnav{
-    display:flex;
-    padding-right: 3px;
-}
+
 #pplogo{
     height:7vh;
+    width: auto;
 }
 #notilogo{
     height:3vh;
+    width: auto;
     margin-top: 14px;
     margin-right: 3px;
 }
