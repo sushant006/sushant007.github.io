@@ -1,5 +1,7 @@
 
-
+body{
+    background-color: rgb(165, 165, 165);
+}
 #navbar{
     display:flex;
     flex-direction: row;
@@ -19,7 +21,7 @@
     flex-direction: row;
     gap:30px;
     font-family: 'PT Sans', sans-serif;
-    background-color: darkgray;
+   
 }
 #leftpart{
     padding: 20px 15px 20px 15px;
