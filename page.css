@@ -16,7 +16,7 @@
     padding: 0px;
     display:flex;
     flex-direction: row;
-    gap:30%;
+    gap:30px;
     font-family: 'PT Sans', sans-serif;
     background-color: darkgray;
 }
