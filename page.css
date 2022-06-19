@@ -4,6 +4,7 @@ body{
 }
 #navbar{
     display:flex;
+    height: auto;
     flex-direction: row;
     padding:5px 25px 5px 25px;
     justify-content: space-between;
