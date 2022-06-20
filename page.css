@@ -1,12 +1,12 @@
 
-body{
+body {
     background-color: rgb(165, 165, 165);
 }
 #navbar{
     display:flex;
     height: auto;
     
-    padding:5px 25px 5px 25px;
+    padding: 0.3125em 1.5625em 25px 0.3125em 1.5625em;
     justify-content: space-between;
     background-color: white;
 }
