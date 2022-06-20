@@ -68,7 +68,12 @@ body{
     height: 35vh;
     width: 35vh;
 }
-
+#leftpartnav{
+    display:flex;
+}
+#rightpartnav{
+    display:flex;
+}
 #pplogo{
     height:7vh;
     width: auto;
