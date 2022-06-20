@@ -5,7 +5,7 @@ body {
 #navbar{
     display:flex;
     height: auto;
-    
+    margin-right: 0%;
     padding: 0.3125em 1.5625em 25px 0.3125em 1.5625em;
     justify-content: space-between;
     background-color: white;
